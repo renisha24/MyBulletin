@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyBulletin</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_1">Bulletin Board</string>
+    <string name="section_2">Bulletin Chat</string>
+</resources>
